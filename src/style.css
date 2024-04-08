@@ -1,0 +1,10 @@
+/* colour_palette */
+:root {
+    --bool-lighter: #FFFFFF;
+    --bool-darker: #333333;
+    --bool-yellow: #F4B429;
+    --bool-blue: #33475B;
+    --bool-grey: #C6C4C4;
+    --bool-acqua: #49A987;
+    --bool-egg: #FEF7E9;
+}
